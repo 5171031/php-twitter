@@ -6,7 +6,6 @@ import example1 as ex1
 ex1.member()
 print("world")
 print("hello")
-print("iji")
 print("OK")
 print("pig")
 print("human")
