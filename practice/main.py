@@ -8,3 +8,8 @@ print("world")
 print("hello")
 print("iji")
 print("OK")
+print("pig")
+print("human")
+print("test")
+print("a")
+
