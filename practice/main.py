@@ -6,7 +6,7 @@ import example1 as ex1
 ex1.member()
 print("world")
 print("hello")
-print("OK")
+print("kamioka")
 print("pig")
 print("human")
 print("test")
@@ -15,4 +15,3 @@ print("konnnichiha")
 print("sayounara")
 print("yamasaki")
 print("ino")
-
