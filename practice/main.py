@@ -11,4 +11,8 @@ print("pig")
 print("human")
 print("test")
 print("a")
+print("konnnichiha")
+print("sayounara")
+print("yamasaki")
+print("ino")
 
