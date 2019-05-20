@@ -8,4 +8,7 @@ print("world")
 print("hello")
 print("konnnichiha")
 print("sayounara")
+print("yamasaki")
+print("ino")
+
 
