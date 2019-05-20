@@ -6,12 +6,12 @@ import example1 as ex1
 ex1.member()
 print("world")
 print("hello")
-<<<<<<< HEAD
 print("kamioka")
-=======
 print("pig")
 print("human")
 print("test")
 print("a")
-
->>>>>>> f8dd9a8a40523ba8061882e89af2c2fb12133fd9
+print("konnnichiha")
+print("sayounara")
+print("yamasaki")
+print("ino")
